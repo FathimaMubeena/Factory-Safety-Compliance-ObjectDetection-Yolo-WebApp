@@ -1,0 +1,10 @@
+pip~=24.2
+wheel~=0.43.0
+ultralytics
+torch~=2.4.0
+supervision
+inference
+roboflow
+scikit-learn
+opencv-python
+streamlit

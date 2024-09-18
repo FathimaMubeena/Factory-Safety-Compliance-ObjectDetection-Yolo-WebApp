@@ -1,0 +1,9 @@
+# .idea
+.idea
+venv
+__pycache__
+*.pyc
+runs
+
+src/main/deploy/.pytest_cache
+src/main/deploy/yolov8_env
